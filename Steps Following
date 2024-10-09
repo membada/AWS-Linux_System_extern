@@ -1,0 +1,6 @@
+//
+Creation of AWS Account 
+ - When creating AWS account using school email ( university email) is preferable when signing up
+Use Amazon free tier 
+Select EC2 System (12 Months free)
+Search through AMI catalog on the Dashboard for AWS choose one of the free teir eligible images (any linux os prefered RedHat) 
